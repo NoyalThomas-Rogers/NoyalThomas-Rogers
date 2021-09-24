@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 Here is the checges from the browser
 Changes from the application desktop
 
-<<<<<<< Updated upstream
+
 Jessy Update something1
 Jessy Update something2
 Jessy Update something3
-=======
+
 
 Noyal updated some thing
->>>>>>> Stashed changes
+
